@@ -53,7 +53,8 @@ This structured representation will allow us to perform a reproducible train/val
 
 
 
-## 4. Model 1: Baseline
+## 4. Model 1: Random Forest
+
 
 ## 5. Model 2: CNN
 
